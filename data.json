@@ -1,0 +1,60 @@
+{
+	"projects":[
+		{
+			"name":"Огородников",
+			"href":"//verstka.dev.magwai.ru/ogorodnikov_full"
+		},
+		{
+			"name":"Дубовский ДОЗ",
+			"href":"//verstka.dev.magwai.ru/doz"
+		},
+		{
+			"name":"Системы управления",
+			"href":"//verstka.dev.magwai.ru/systemuprav"
+		},
+		{
+			"name":"Оберег",
+			"href":"//verstka.dev.magwai.ru/obereg"
+		},
+		{
+			"name":"Сфера",
+			"href":"//verstka.dev.magwai.ru/sphere"
+		},
+		{
+			"name":"ТехноБелка ",
+			"href":"//verstka.dev.magwai.ru/techno-belka"
+		},
+		{
+			"name":"Гермес",
+			"href":"//verstka.dev.magwai.ru/germes"
+		},
+		{
+			"name":"Авиценна",
+			"href":"//verstka.dev.magwai.ru/medvolgnew"
+		},
+		{
+			"name":"Bumza",
+			"href":"//verstka.dev.magwai.ru/bumza-adapt"
+		},
+		{
+			"name":"За Кпрф",
+			"href":"//zakprf.ru"
+		},
+		{
+			"name":"Связь Холдинг",
+			"href":"//verstka.dev.magwai.ru/svyaz-holding"
+		},
+		{
+			"name":"Связь Холдинг - лэндинг",
+			"href":"//verstka.dev.magwai.ru/svyaz-landing"
+		},
+		{
+			"name":"Лэндинг для детского сдаика",
+			"href":"//verstka.dev.magwai.ru/kinder-landing"
+		},
+		{
+			"name":"Self",
+			"href":"//verstka.dev.magwai.ru/Self"
+		}
+	]
+}

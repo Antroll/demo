@@ -1,0 +1,26 @@
+/* index */
+.folder{
+	a{
+		@include link-clicker;
+		display: inline-block;
+		margin-bottom: 20px;
+		text-decoration: none;
+		color: inherit;
+		opacity: 0.8;
+		transition: all 0.2s;
+		&:hover{
+			opacity: 1;
+		}
+	}
+	&__icon{
+		width: 50px;
+		height: 50px;
+		background:transparent url('../images/media/folder-icon.png') no-repeat center / 100%;
+	}
+	&__name{
+		display: inline-block;
+		color: #444;
+		transition: color 0.2s;
+	}
+}
+/* .index */

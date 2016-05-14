@@ -1,0 +1,39 @@
+include mixins/_mixins
+
+- var href = 'javascript:void(0)';
+block vars
+
+doctype html
+html.no-js
+	head
+		meta(charset='utf-8')
+		title Antroll projects
+		meta(name='description' content='')
+		meta(name='viewport' content='width=device-width, initial-scale=1')
+		link(rel="shortcut icon" href="favicon.ico" type="image/x-icon")
+		link(rel="icon" href="favicon.ico" type="image/x-icon")
+
+		link(rel='stylesheet', href="plugins/colorbox/colorbox.css")
+		link(rel='stylesheet', href="plugins/arcticmodal/jquery.arcticmodal.css")
+		link(rel='stylesheet', href="plugins/arcticmodal/themes/dark.css")
+		link(rel='stylesheet', href='styles/style.css')
+		block style
+		block script
+	body
+		//- #preloader
+			#status
+
+		include blocks/_header
+
+		main
+			block content
+
+		include blocks/_footer
+
+		script(src="plugins/jquery/jquery.min.js")
+		script(src="plugins/flexibility.js")
+		script(src="plugins/colorbox/jquery.colorbox-min.js")
+		script(src="plugins/arcticmodal/jquery.arcticmodal.min.js")
+		script(src="plugins/image-scale.min.js")
+		script(src="scripts/main.js")
+		block scripts
