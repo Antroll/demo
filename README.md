@@ -1,5 +1,5 @@
-# new-project
-Десктопная версия сайта **[site.com](#)**
+# demo-project
+Презентация моих работ **[http://antroll.github.io/](#)**
 
 #### Установка
 Для работы со сборкой проэкта необходимы установленные **[node.js](https://nodejs.org/en/)**  и **[ruby](https://www.ruby-lang.org/ru/)**
@@ -22,8 +22,8 @@ $ npm install -g gulp bower
 ```
 #### Готовим проект
 ```sh
-$ git clone https://gitlab.com/Antroll/new-project.git
-$ cd new-project
+$ git clone https://github.com/Antroll/demo.git
+$ cd /demo
 $ npm i
 $ bower i
 ```
@@ -34,4 +34,4 @@ $ bower i
 $ gulp serve
 ```
 
-Исходники проекта содержаться в папке **project/dist**
+Исходники проекта содержаться в папке **demo/dist**
