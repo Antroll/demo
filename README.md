@@ -1,7 +1,7 @@
 # demo-project
 Презентация моих работ **[antroll.github.io](http://antroll.github.io/)**
 
-#### Установка
+#### Сборка проекта
 Для работы со сборкой проэкта необходимы установленные **[node.js](https://nodejs.org/en/)**  и **[ruby](https://www.ruby-lang.org/ru/)**
 Так же должны быть установлены
 
