@@ -1,8 +1,18 @@
 /* index */
+.row{
+	font-size: 0;
+}
+[class^="col-"]{
+	font-size: 1rem;
+	float: none;
+	display: inline-block;
+	vertical-align: top;
+}
 .folder{
 	a{
 		@include link-clicker;
 		display: inline-block;
+		vertical-align: top;
 		margin-bottom: 20px;
 		text-decoration: none;
 		color: inherit;

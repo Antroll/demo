@@ -1,0 +1,61 @@
+.my-modal{
+	&_iframe{
+		width: 100%;
+	}
+}
+#cboxClose{
+	top: 0;
+	right: 7px;
+	width: 23px;
+	height: 24px;
+	background: black;
+	text-align: center;
+	line-height: 24px;
+	color: white;
+	border-radius: 0 0 5px 5px;
+	font-size: 0;
+	text-indent: 0;
+	&:before{
+		content: '\f00d';
+		font-family: FontAwesome;
+		font-size: 16px;
+		opacity: 0.6;
+		transition: opacity 0.2s;
+	}
+	&:hover{
+		&:before{
+			opacity: 1;
+		}
+	}
+}
+.cboxFull{
+	position: absolute;
+	display: block;
+	top: 0;
+	right: 32px;
+	width: 23px;
+	height: 24px;
+	background: black;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+	border-radius: 0 0 5px 5px;
+	&:before{
+		content: '';
+		display: block;
+		position: absolute;
+		left: 0;right: 0;bottom: 0;top: 0;
+		margin: auto;
+		width: 60%;
+		height: 40%;
+		border: solid white;
+		border-width: 1px 1px 3px;
+		opacity: 0.6;
+		transition: opacity 0.2s;
+	}
+	&:hover{
+		&:before{
+			opacity: 1;
+		}
+	}
+}

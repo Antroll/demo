@@ -1,0 +1,1689 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bg",
+				"bg	background: #${1:000};"
+			],
+			[
+				"blue",
+				"blue-bg	(success-checkout.jade)"
+			],
+			[
+				"suc",
+				"success-checkout	(style.scss)"
+			],
+			[
+				"succ",
+				"success-checkout	(delete-me.js)"
+			],
+			[
+				"acc",
+				"account	(account-lc.jade)"
+			],
+			[
+				"cart",
+				"cart-item	(cart.jade)"
+			],
+			[
+				"input",
+				"input-num	(main.js)"
+			],
+			[
+				"ba",
+				"background-color	(_product.scss)"
+			],
+			[
+				"ca",
+				"cart	(_cart.scss)"
+			],
+			[
+				"sp",
+				"sprite	(style.scss)"
+			],
+			[
+				"inc",
+				"includes	(typography.scss)"
+			],
+			[
+				"ver",
+				"verticalize	(_global-classes.scss)"
+			],
+			[
+				"tar",
+				"ta-r	text-align: right;"
+			],
+			[
+				"jc",
+				"jc-c	justify-content: center;"
+			],
+			[
+				"df",
+				"d-f	display: flex;"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"only",
+				"only-num	(main.js)"
+			],
+			[
+				"prod",
+				"product	(catalog.jade)"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"pro",
+				"product-description.html	(catalog.jade)"
+			],
+			[
+				"im",
+				"imp	@import"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"nth",
+				"nth-child(5n+5"
+			],
+			[
+				"pr",
+				"product	(_product.jade)"
+			],
+			[
+				"lo",
+				"loaded"
+			],
+			[
+				"slide",
+				"slideDown〔function〕"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ac",
+				"active	(_mixins.jade)"
+			],
+			[
+				"bgr",
+				"bgr-n	background-repeat: no-repeat;"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"ov",
+				"ovy-v	overflow-y: visible;"
+			],
+			[
+				"ovx",
+				"ovx-a	overflow-x: auto;"
+			],
+			[
+				"alp",
+				"alphabet	(brends.jade)"
+			],
+			[
+				"wid",
+				"width	(_layout.jade)"
+			],
+			[
+				"ts",
+				"tsh-n	text-shadow: none;"
+			],
+			[
+				"bxs",
+				"bxsh-n	box-shadow: none;"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"ani",
+				"animate	(_global-classes.scss)"
+			],
+			[
+				"o-x",
+				"ovx-h	overflow-x: hidden;"
+			],
+			[
+				"cle",
+				"clearTimeout〔function〕"
+			],
+			[
+				"re",
+				"removeClass〔function〕"
+			],
+			[
+				"as",
+				"aside	(delivery.jade)"
+			],
+			[
+				"mah",
+				"mah-n	max-height: none;"
+			],
+			[
+				"ovy",
+				"ovy-a	overflow-y: auto;"
+			],
+			[
+				"z",
+				"z-a	z-index: auto;"
+			],
+			[
+				"bxz",
+				"bxz-cb	box-sizing: content-box;"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"sca",
+				"scale"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"blo",
+				"blocks/"
+			],
+			[
+				"incs",
+				"includes/"
+			],
+			[
+				"plac",
+				"placeholder	(_footer.jade)"
+			],
+			[
+				"He",
+				"Helios	(_fonts.scss)"
+			],
+			[
+				"load",
+				"loaded	(main.js)"
+			],
+			[
+				"se",
+				"selector"
+			],
+			[
+				"fil",
+				"file	(polk.jade)"
+			],
+			[
+				"class",
+				"classList	(main.js)"
+			],
+			[
+				"image",
+				"images	(_polk.scss)"
+			],
+			[
+				"doc",
+				"document	(main.js)"
+			],
+			[
+				"rel",
+				"related"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"bgs",
+				"bgsz-cv	background-size: cover;"
+			],
+			[
+				"expa",
+				"expanded"
+			],
+			[
+				"me",
+				"menu"
+			],
+			[
+				"toggle",
+				"toggleClass〔function〕"
+			],
+			[
+				"act",
+				"active	(_copycenter.scss)"
+			],
+			[
+				"F",
+				"FontAwesome"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"togg",
+				"toggleClass〔function〕"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"vis",
+				"visibility	(_setup.scss)"
+			],
+			[
+				"peve",
+				"preventDefault"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"rb",
+				"rgba	rgba()"
+			],
+			[
+				"sli",
+				"slideToggle〔function〕"
+			],
+			[
+				"R",
+				"RalewayMedium	(_setup.scss)"
+			],
+			[
+				"sc",
+				"scripts	(_layout.jade)"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"mo",
+				"mouseover〔function〕"
+			],
+			[
+				"place",
+				"_placeholders.scss"
+			],
+			[
+				"ra",
+				"ralewayregular	(_setup.scss)"
+			],
+			[
+				"d",
+				"d	display: ${1:block};"
+			],
+			[
+				"Op",
+				"OpenSansSemibold	(_placeholders.scss)"
+			],
+			[
+				"maw",
+				"maw-n	max-width: none;"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"bgpo",
+				"background-position"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sele",
+				"select	(main.js)"
+			],
+			[
+				"text",
+				"textarea	(_helpers.scss)"
+			],
+			[
+				"ta",
+				"tabs	(_comments.jade)"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"P",
+				"ProximaNovaSemibold	(_index.scss)"
+			],
+			[
+				"wh",
+				"white	(_layout.scss)"
+			],
+			[
+				"comme",
+				"comment	(_comments.jade)"
+			],
+			[
+				"qu",
+				"quotes	(_index.scss)"
+			],
+			[
+				"new_pa",
+				"news_page_news"
+			],
+			[
+				"cea",
+				"clearfix	(_layout.scss)"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"ser",
+				"_services.scss"
+			],
+			[
+				"Pr",
+				"ProximaNovaRegular	(_index.scss)"
+			],
+			[
+				"butt",
+				"button	(main.js)"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"new",
+				"new__title	(main.js)"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"ur",
+				"url()"
+			],
+			[
+				"sl",
+				"slick	(_layout.jade)"
+			],
+			[
+				"par",
+				"parent〔function〕"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"n",
+				"novalue	(_setup.scss)"
+			],
+			[
+				"slid",
+				"slideUp"
+			],
+			[
+				"ha",
+				"hasClass〔function〕"
+			],
+			[
+				"no",
+				"none	(_setup.scss)"
+			],
+			[
+				"spe",
+				"specialist	(index.jade)"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"vi",
+				"visible-lg-block"
+			],
+			[
+				"visi",
+				"visible-md-block"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"bu",
+				"button"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"trad",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"ss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ssja",
+				"Set Syntax: Jade"
+			],
+			[
+				"ssscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ssscs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"cttb",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"fob",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssj",
+				"Set Syntax: Jade"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"rempa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjade",
+				"Set Syntax: Jade"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"modif",
+				"Modific: Show diff"
+			],
+			[
+				"mod",
+				"Modific: Show diff"
+			],
+			[
+				"modi",
+				"Modific: Show diff"
+			],
+			[
+				"loca",
+				"Local History: Open"
+			],
+			[
+				"palist",
+				"Package Control: List Packages"
+			],
+			[
+				"modifi",
+				"Modific: Show diff"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git co",
+				"Git: Quick Commit"
+			],
+			[
+				"boore",
+				"SublimeBookmarks: Remove All Bookmarks (Clear Bookmarks)"
+			],
+			[
+				"boo",
+				"Bookmarks: Clear All"
+			],
+			[
+				"palis",
+				"Package Control: List Packages"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add Current File"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gl",
+				"Glue - Launch"
+			],
+			[
+				"ssnex",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ssnext",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"browsepa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"plis",
+				"Package Control: List Packages"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"ssht	",
+				"Set Syntax: HTML"
+			],
+			[
+				"lispa",
+				"Package Control: List Packages"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"loc",
+				"Local History: Browse"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/panov/projects/demo"
+	],
+	"file_history":
+	[
+		"/E/panov/projects/self/app/styles/blocks/_header.scss",
+		"/E/panov/projects/self/app/tamplates/_layout.jade",
+		"/E/panov/projects/self/app/styles/_pay-error.scss",
+		"/E/panov/projects/self/app/styles/style.scss",
+		"/E/panov/projects/self/app/tamplates/account-lc.jade",
+		"/E/panov/projects/self/app/tamplates/pay-error.jade",
+		"/E/panov/projects/self/app/scripts/main.js",
+		"/E/panov/projects/self/dist/plugins/delete-me.js",
+		"/E/panov/projects/self/app/styles/_account-lc.scss",
+		"/C/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/E/panov/projects/self/app/styles/_success-checkout.scss",
+		"/E/panov/projects/self/app/tamplates/success-checkout.jade",
+		"/E/panov/projects/self/app/styles/includes/_global-classes.scss",
+		"/E/panov/projects/self/app/styles/mixins/_checkbox.mixin.scss",
+		"/E/panov/projects/self/app/styles/includes/_plugins.scss",
+		"/E/panov/projects/self/app/tamplates/cart.jade",
+		"/E/panov/projects/self/app/tamplates/product-view.jade",
+		"/E/panov/projects/self/app/styles/_cart.scss",
+		"/E/panov/projects/self/app/styles/_product-view.scss",
+		"/E/panov/projects/self/app/tamplates/test.jade",
+		"/E/panov/projects/self/app/tamplates/account-new.jade",
+		"/E/panov/projects/self/app/styles/typography.scss",
+		"/E/panov/projects/self/app/tamplates/ajax/product-description.jade",
+		"/E/panov/projects/self/app/styles/blocks/_product.scss",
+		"/E/panov/projects/self/app/styles/includes/_setup.scss",
+		"/E/panov/projects/self/app/tamplates/catalog.jade",
+		"/E/panov/projects/self/app/tamplates/index.jade",
+		"/E/panov/projects/self/app/styles/_catalog.scss",
+		"/E/panov/projects/self/app/styles/blocks/_paginator.scss",
+		"/E/panov/projects/self/app/styles/blocks/_product-description.scss",
+		"/E/panov/projects/self/dist/ajax/product-description.html",
+		"/E/panov/projects/self/app/styles/bootstrap/_variables.scss",
+		"/E/panov/projects/self/app/tamplates/mixins/_product.jade",
+		"/E/panov/projects/self/app/styles/includes/_shadow-classes.scss",
+		"/E/panov/projects/self/app/styles/includes/_vars.scss",
+		"/E/panov/projects/self/dist/plugins/jscrollpane/jquery.jscrollpane.min.js",
+		"/E/panov/projects/self/app/tamplates/_mixins.jade",
+		"/E/panov/projects/self/gulpfile.js",
+		"/E/panov/projects/self/dist/scripts/all.js",
+		"/E/panov/projects/self/dist/scripts/main.js",
+		"/E/panov/projects/self/dist/scripts/icons.js",
+		"/E/panov/projects/self/app/tamplates/mixins/_checkbox.jade",
+		"/E/panov/projects/self/app/styles/_layout.scss",
+		"/E/panov/projects/self/app/styles/_index.scss",
+		"/E/panov/projects/self/app/tamplates/brands.jade",
+		"/E/panov/projects/self/app/tamplates/blocks/_header.jade",
+		"/E/panov/projects/self/app/styles/blocks/_footer.scss",
+		"/E/panov/projects/self/app/tamplates/blocks/_footer.jade",
+		"/E/panov/projects/self/app/styles/_brands.scss",
+		"/E/panov/projects/self/dist/plugins/jscrollpane/jquery.jscrollpane.css",
+		"/E/panov/projects/self/app/styles/includes/_fonts.scss",
+		"/E/panov/projects/self/dist/plugins/jscrollpane/jquery.mousewheel.js",
+		"/E/panov/projects/self/app/styles/_static-pages.scss",
+		"/E/panov/projects/self/app/tamplates/delivery.jade",
+		"/E/panov/projects/self/data.json",
+		"/E/panov/projects/self/app/styles/includes/_grid.scss",
+		"/E/panov/projects/self/app/tamplates/blocks/_favicons.jade",
+		"/E/panov/projects/self/self.sublime-project",
+		"/E/panov/projects/self/package.json",
+		"/E/panov/projects/new-project/package.json",
+		"/E/panov/projects/new-project/gulpfile.js",
+		"/E/panov/projects/self/dist/scripts/app.min.js",
+		"/E/panov/projects/self/app/styles/includes/_helpers.scss",
+		"/C/Users/a.panov/AppData/Local/Temp/Temp1_onlinefontconverter.com.zip/onlinefontconverter.com/converted-files/font.css",
+		"/E/panov/projects/self/dist/plugins/slick/slick.scss",
+		"/E/panov/projects/self/app/scripts/icons.js",
+		"/E/panov/projects/self/app/styles/includes/_mixins.scss",
+		"/E/panov/projects/self/app/styles/mixins/_placeholder.mixin.scss",
+		"/C/Users/a.panov/AppData/Local/Temp/Temp1_onlinefontconverter.com (2).zip/onlinefontconverter.com/converted-files/font.css",
+		"/E/panov/projects/self/app/styles/mixins/_mixins.scss",
+		"/E/panov/projects/self/app/styles/bootstrap/mixins/_grid.scss",
+		"/E/panov/projects/self/app/styles/bootstrap/_grid.scss",
+		"/E/panov/projects/self/app/styles/includes/_bootstrap.scss",
+		"/E/panov/projects/self/README.md",
+		"/E/panov/projects/gold-print/app/scripts/test.js",
+		"/E/panov/projects/gold-print/app/styles/_polk.scss",
+		"/E/panov/projects/gold-print/app/scripts/main.js",
+		"/E/panov/projects/gold-print/app/styles/test.scss",
+		"/E/panov/projects/gold-print/app/tamplates/polk.jade",
+		"/E/panov/projects/gold-print/app/tamplates/_layout.jade",
+		"/E/panov/projects/gold-print/app/tamplates/test.jade",
+		"/C/Users/a.panov/AppData/Local/Temp/Temp1_gold-print.zip/app/scripts/test.js",
+		"/C/Users/a.panov/AppData/Local/Temp/scp34739/public_html/dev/examples/timer/js/clock.js",
+		"/C/Users/a.panov/AppData/Local/Temp/scp35411/public_html/dev/examples/timer/js/main.js",
+		"/C/Users/a.panov/AppData/Local/Temp/scp36663/public_html/news/index.php",
+		"/E/panov/projects/gold-print/gulpfile.js",
+		"/E/panov/projects/gold-print/app/styles/style.scss",
+		"/E/panov/projects/gold-print/dist/styles/style.css",
+		"/E/panov/projects/gold-print/gold-print.sublime-project",
+		"/E/panov/projects/dolphin-animate/main.scss",
+		"/E/panov/projects/dolphin-animate/main.js",
+		"/C/Users/a.panov/AppData/Local/Temp/scp00046/www/delphin2.dev.magwai.ru/www/img/_antons.scss",
+		"/E/panov/projects/gold-print/app/styles/includes/_mixins.scss",
+		"/C/Users/1/Downloads/tapmodo-Jcrop-1902fbc/demos/tutorial1.html",
+		"/C/My/Work/Projects/doz/app/styles/blocks/_sidebar.scss",
+		"/C/My/Work/Projects/doz/app/styles/blocks/_breadcrumbs.scss",
+		"/C/My/Work/Projects/doz/app/styles/blocks/_head-row.scss",
+		"/C/My/Work/Projects/doz/app/styles/typography.scss",
+		"/C/My/Work/Projects/doz/app/styles/includes/_helpers.scss",
+		"/C/My/Work/Projects/doz/app/styles/_catalogue.scss",
+		"/C/My/Work/Projects/doz/app/tamplates/mixins/_sidebar-mixins.jade",
+		"/C/My/Work/Projects/doz/app/tamplates/product-view.jade",
+		"/C/My/Work/Projects/doz/app/tamplates/_mixins.jade",
+		"/C/My/Work/Projects/doz/app/tamplates/catalogue.jade",
+		"/C/My/Work/Projects/doz/app/tamplates/catalog-view.jade",
+		"/C/My/Work/Projects/doz/app/styles/includes/_vars.scss",
+		"/C/My/Work/Projects/doz/app/styles/_layout.scss",
+		"/C/My/Work/Projects/doz/app/scripts/main.js",
+		"/C/My/Work/Projects/doz/app/tamplates/about.jade",
+		"/C/My/Work/Projects/doz/app/styles/includes/_plugins.scss",
+		"/C/My/Work/Projects/doz/app/styles/_index.scss",
+		"/C/My/Work/Projects/doz/app/tamplates/_layout.jade",
+		"/C/My/Work/Projects/doz/app/tamplates/index.jade",
+		"/C/My/Work/Projects/doz/app/tamplates/test.jade",
+		"/C/My/Work/Projects/doz/app/styles/includes/_mixins.scss",
+		"/C/My/Work/Projects/doz/app/tamplates/blocks/_header.jade",
+		"/C/My/Work/Projects/doz/app/tamplates/blocks/_footer.jade",
+		"/C/My/Work/Projects/doz/bower.json",
+		"/C/My/Work/Projects/doz/gulpfile.js",
+		"/C/My/Work/Projects/doz/.gitignore",
+		"/C/My/Work/Projects/doz/doz.sublime-project",
+		"/C/My/Work/Projects/gold-print/gold-print.sublime-project",
+		"/C/My/Work/Projects/gold-print-old/app/styles/_contacts.scss",
+		"/C/My/Work/Projects/gold-print-old/app/styles/_copycenter.scss",
+		"/C/My/Work/Projects/gold-print-old/app/styles/includes/_helpers.scss",
+		"/C/My/Work/Projects/gold-print-old/app/styles/_layout.scss",
+		"/C/My/Work/Projects/gold-print-old/app/scripts/main.js",
+		"/C/My/Work/Projects/gold-print-old/app/styles/_portfolio.scss"
+	],
+	"find":
+	{
+		"height": 138.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"E:\\panov\\projects\\self\\app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".row(elem=\"row\")\n						.col-xs-5\n							label(elem=\"label\"  for=\"email\") Телефон\n						.col-xs-7\n							input#email.input-style-1(elem=\"input\" type=\"tel\" name=\"phone\" autocomplete=\"tel\" required=\"\" tabindex=\"4\")\n",
+			"fname",
+			"first",
+			"inputName",
+			"8",
+			"9",
+			"input",
+			"{\n",
+			".col-xs-2",
+			"scale",
+			"before",
+			"catalog",
+			".slider-1__arrow",
+			"\"></div>",
+			"<div class=\"",
+			"margin-bottom",
+			".col-md-4",
+			"md",
+			"max",
+			"min",
+			"data-color",
+			"data-color=\"#27329D\"",
+			"Цвет",
+			"data-color=",
+			"active",
+			"$(this)",
+			"();\n",
+			"$(this)",
+			"myTimeout",
+			"md",
+			"$grey-L",
+			"z-index: 102",
+			"lg",
+			"md",
+			".container {\n    width: 960px;\n}",
+			"sm",
+			"md",
+			"sm",
+			"30",
+			"ф",
+			"xs",
+			"Цвет",
+			"value",
+			"a3a3a3",
+			"main",
+			"all.js",
+			"app.min",
+			"app.min.js",
+			"divIn",
+			"parentClass",
+			"containerClass",
+			"parentClass",
+			"containerClass",
+			"options",
+			"9c9c9c",
+			"href=\"#\"",
+			"banner-link",
+			"h-search__submit",
+			"info",
+			"baske",
+			"addClass",
+			"product>a",
+			"sidebar",
+			"indexSlider",
+			"js",
+			"i",
+			"brends",
+			"item",
+			"menu",
+			"letter",
+			"8",
+			"foc",
+			"grey",
+			"hidden",
+			"black",
+			"balck",
+			"active",
+			"item(",
+			"before",
+			"addClass",
+			"main-nav",
+			"menu",
+			"mainNav",
+			"main-nav",
+			"C0956A",
+			"a(",
+			"a",
+			"60px",
+			"767",
+			"768",
+			"\"",
+			"trigger",
+			"value",
+			"'",
+			"mySwiper",
+			"sm",
+			"md",
+			"href=href",
+			"a(",
+			"a",
+			"slide-'+i+'",
+			"view",
+			"key",
+			"url('HeliosBold",
+			"color",
+			"&:hover{",
+			"n\"",
+			"div",
+			"transi",
+			"8f8f8f",
+			"url('MinionPro",
+			"pathHelios",
+			"Регистрация",
+			"red",
+			"$grid-gutter-width",
+			"grid-gutter-width",
+			"wrap",
+			"Rang",
+			"addText",
+			"console.log",
+			"this",
+			"createComponents",
+			"= function",
+			"Clock",
+			"imgSrc",
+			"Clock",
+			"	var Clock = new Clock({\n",
+			"Clock"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"menu",
+			"$bdc",
+			"$bgc",
+			"menu_dev_mobile",
+			"dev_mobile",
+			"wrap-xs(",
+			"$textColor",
+			"page:",
+			"section.row",
+			".slide"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 249.0
+	},
+	"pinned_build_system": "",
+	"project": "demo.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hea",
+				"app\\styles\\blocks\\_header.scss"
+			],
+			[
+				"lay",
+				"app\\tamplates\\_layout.jade"
+			],
+			[
+				"sty",
+				"app\\styles\\style.scss"
+			],
+			[
+				"st",
+				"app\\styles\\style.scss"
+			],
+			[
+				"mixi",
+				"app\\styles\\mixins\\_checkbox.mixin.scss"
+			],
+			[
+				"glob",
+				"app\\styles\\includes\\_global-classes.scss"
+			],
+			[
+				"dele",
+				"dist\\plugins\\delete-me.js"
+			],
+			[
+				"desc",
+				"app\\tamplates\\ajax\\product-description.jade"
+			],
+			[
+				"prodv",
+				"app\\styles\\_product-view.scss"
+			],
+			[
+				"prodss",
+				"app\\styles\\blocks\\_product.scss"
+			],
+			[
+				"cata",
+				"app\\tamplates\\catalog.jade"
+			],
+			[
+				"plu",
+				"app\\styles\\includes\\_plugins.scss"
+			],
+			[
+				"pro",
+				"app\\styles\\blocks\\_product.scss"
+			],
+			[
+				"pa",
+				"app\\styles\\blocks\\_paginator.scss"
+			],
+			[
+				"set",
+				"app\\styles\\includes\\_setup.scss"
+			],
+			[
+				"ty",
+				"app\\styles\\typography.scss"
+			],
+			[
+				"id",
+				"app\\tamplates\\index.jade"
+			],
+			[
+				"prdj",
+				"app\\tamplates\\ajax\\product-description.jade"
+			],
+			[
+				"prodde",
+				"dist\\ajax\\product-description.html"
+			],
+			[
+				"del",
+				"dist\\plugins\\delete-me.js"
+			],
+			[
+				"che",
+				"app\\styles\\mixins\\_checkbox.mixin.scss"
+			],
+			[
+				"head",
+				"app\\styles\\blocks\\_header.scss"
+			],
+			[
+				"glo",
+				"app\\styles\\includes\\_global-classes.scss"
+			],
+			[
+				"test",
+				"app\\tamplates\\test.jade"
+			],
+			[
+				"vars",
+				"app\\styles\\includes\\_vars.scss"
+			],
+			[
+				"pl",
+				"app\\styles\\includes\\_plugins.scss"
+			],
+			[
+				"tes",
+				"app\\tamplates\\test.jade"
+			],
+			[
+				"mai",
+				"app\\scripts\\main.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"main",
+				"app\\scripts\\main.js"
+			],
+			[
+				"sha",
+				"app\\styles\\includes\\_shadow-classes.scss"
+			],
+			[
+				"catss",
+				"app\\styles\\_catalog.scss"
+			],
+			[
+				"cat",
+				"app\\tamplates\\catalog.jade"
+			],
+			[
+				"prod",
+				"app\\styles\\blocks\\_product.scss"
+			],
+			[
+				"prss",
+				"app\\styles\\blocks\\_product.scss"
+			],
+			[
+				"footsss",
+				"app\\styles\\blocks\\_footer.scss"
+			],
+			[
+				"foot",
+				"app\\tamplates\\blocks\\_footer.jade"
+			],
+			[
+				"he",
+				"app\\styles\\blocks\\_header.scss"
+			],
+			[
+				"indss",
+				"app\\styles\\_index.scss"
+			],
+			[
+				"de",
+				"dist\\plugins\\delete-me.js"
+			],
+			[
+				"ind",
+				"app\\tamplates\\index.jade"
+			],
+			[
+				"font",
+				"app\\styles\\includes\\_fonts.scss"
+			],
+			[
+				"heass",
+				"app\\styles\\blocks\\_header.scss"
+			],
+			[
+				"foo",
+				"app\\styles\\blocks\\_footer.scss"
+			],
+			[
+				"style",
+				"app\\styles\\style.scss"
+			],
+			[
+				"la",
+				"app\\tamplates\\_layout.jade"
+			],
+			[
+				"footer",
+				"app\\tamplates\\blocks\\_footer.jade"
+			],
+			[
+				"data",
+				"data.json"
+			],
+			[
+				"se",
+				"app\\styles\\includes\\_setup.scss"
+			],
+			[
+				"grid",
+				"app\\styles\\includes\\_grid.scss"
+			],
+			[
+				"hedss",
+				"app\\styles\\blocks\\_header.scss"
+			],
+			[
+				"prd",
+				"app\\tamplates\\mixins\\_product.jade"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"s",
+				"app\\styles\\style.scss"
+			],
+			[
+				"fonts",
+				"app\\styles\\includes\\_fonts.scss"
+			],
+			[
+				"helpe",
+				"app\\styles\\includes\\_helpers.scss"
+			],
+			[
+				"indj",
+				"app\\tamplates\\index.jade"
+			],
+			[
+				"fontsss",
+				"app\\styles\\includes\\_fonts.scss"
+			],
+			[
+				"headss",
+				"app\\styles\\blocks\\_header.scss"
+			],
+			[
+				"da",
+				"data.json"
+			],
+			[
+				"mix",
+				"app\\styles\\mixins\\_mixins.scss"
+			],
+			[
+				"hjead",
+				"app\\tamplates\\blocks\\_header.jade"
+			],
+			[
+				"va",
+				"app\\styles\\bootstrap\\_variables.scss"
+			],
+			[
+				"styl",
+				"app\\styles\\style.scss"
+			],
+			[
+				"gr",
+				"app\\styles\\bootstrap\\_grid.scss"
+			],
+			[
+				"testcss",
+				"app\\styles\\test.scss"
+			],
+			[
+				"testjs",
+				"app\\scripts\\test.js"
+			],
+			[
+				"testja",
+				"app\\tamplates\\test.jade"
+			],
+			[
+				"tesj",
+				"app\\scripts\\test.js"
+			],
+			[
+				"styless",
+				"dist\\styles\\style.css"
+			],
+			[
+				"testss",
+				"app\\styles\\test.scss"
+			],
+			[
+				"testj",
+				"app\\tamplates\\test.jade"
+			],
+			[
+				"side",
+				"app\\styles\\blocks\\_sidebar.scss"
+			],
+			[
+				"mainj",
+				"app\\scripts\\main.js"
+			],
+			[
+				"layss",
+				"app\\styles\\_layout.scss"
+			],
+			[
+				"help",
+				"app\\styles\\includes\\_helpers.scss"
+			],
+			[
+				"typog",
+				"app\\styles\\typography.scss"
+			],
+			[
+				"plugins",
+				"app\\styles\\includes\\_plugins.scss"
+			],
+			[
+				"about",
+				"app\\tamplates\\about.jade"
+			],
+			[
+				"headro",
+				"app\\styles\\blocks\\_head-row.scss"
+			],
+			[
+				"cont",
+				"app\\styles\\_contacts.scss"
+			],
+			[
+				"copyc",
+				"app\\styles\\_copycenter.scss"
+			],
+			[
+				"conj",
+				"app\\tamplates\\contacts.jade"
+			],
+			[
+				"conss",
+				"app\\styles\\_contacts.scss"
+			],
+			[
+				"port",
+				"app\\tamplates\\portfolio.jade"
+			],
+			[
+				"indess",
+				"app\\styles\\_index.scss"
+			],
+			[
+				"indexj",
+				"app\\tamplates\\index.jade"
+			],
+			[
+				"pors",
+				"app\\styles\\_portfolio.scss"
+			],
+			[
+				"por",
+				"app\\tamplates\\portfolio.jade"
+			],
+			[
+				"inds",
+				"app\\styles\\_index.scss"
+			],
+			[
+				"cons",
+				"app\\styles\\_contacts.scss"
+			],
+			[
+				"contj",
+				"app\\tamplates\\contacts.jade"
+			],
+			[
+				"setu",
+				"app\\styles\\includes\\_setup.scss"
+			],
+			[
+				"inde",
+				"app\\styles\\_index.scss"
+			],
+			[
+				"indexs",
+				"app\\styles\\_index.scss"
+			],
+			[
+				"lays",
+				"app\\styles\\_layout.scss"
+			],
+			[
+				"mixinj",
+				"app\\tamplates\\_mixins.jade"
+			],
+			[
+				"ords",
+				"app\\styles\\_ordering.scss"
+			],
+			[
+				"order",
+				"app\\tamplates\\ordering.jade"
+			],
+			[
+				"cart",
+				"app\\tamplates\\cart.jade"
+			],
+			[
+				"setup",
+				"app\\styles\\includes\\_setup.scss"
+			],
+			[
+				"mxii",
+				"app\\tamplates\\_mixins.jade"
+			],
+			[
+				"place",
+				"app\\styles\\includes\\_placeholders.scss"
+			],
+			[
+				"pric",
+				"app\\tamplates\\price.jade"
+			],
+			[
+				"gallj",
+				"app\\tamplates\\gallery.jade"
+			],
+			[
+				"abo",
+				"app\\tamplates\\about.jade"
+			],
+			[
+				"abou",
+				"app\\styles\\_about.scss"
+			],
+			[
+				"typo",
+				"app\\styles\\typography.scss"
+			],
+			[
+				"var",
+				"app\\styles\\includes\\_vars.scss"
+			],
+			[
+				"news",
+				"app\\tamplates\\news.jade"
+			],
+			[
+				"ga",
+				"app\\tamplates\\gallery.jade"
+			],
+			[
+				"tra",
+				"dist\\scripts\\transition.js"
+			],
+			[
+				"tab",
+				"dist\\scripts\\tab.js"
+			],
+			[
+				"sta",
+				"app\\styles\\_staff.scss"
+			],
+			[
+				"staff",
+				"app\\tamplates\\staff.jade"
+			],
+			[
+				"comme",
+				"app\\styles\\blocks\\_comments.scss"
+			],
+			[
+				"staf",
+				"app\\tamplates\\staff.jade"
+			],
+			[
+				"comm",
+				"app\\tamplates\\blocks\\_comments.jade"
+			],
+			[
+				"ma",
+				"app\\scripts\\main.js"
+			],
+			[
+				"hel",
+				"app\\styles\\includes\\_helpers.scss"
+			],
+			[
+				"foote",
+				"app\\tamplates\\blocks\\_footer.jade"
+			],
+			[
+				"stafscs",
+				"app\\styles\\_staff.scss"
+			],
+			[
+				"paginat",
+				"app\\styles\\placeholders\\_paginator.scss"
+			],
+			[
+				"pagi",
+				"app\\styles\\bootstrap\\_pagination.scss"
+			],
+			[
+				"index",
+				"app\\styles\\_index.scss"
+			],
+			[
+				"meth",
+				"app\\tamplates\\blocks\\_methods.jade"
+			],
+			[
+				"methods",
+				"app\\styles\\blocks\\_methods.scss"
+			],
+			[
+				"stylesc",
+				"app\\styles\\style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "co",
+		"selected_items":
+		[
+			[
+				"co",
+				"E:\\panov\\projects\\conf-landing\\conf-landing.sublime-project"
+			],
+			[
+				"oly",
+				"E:\\panov\\projects\\oly\\olympia.sublime-project"
+			],
+			[
+				"grad",
+				"E:\\panov\\projects\\germes\\app\\styles\\includes\\bumza-pages.sublime-workspace"
+			],
+			[
+				"gol",
+				"C:\\My\\Work\\Projects\\gold-print-old\\gold-print.sublime-workspace"
+			],
+			[
+				"",
+				"C:\\My\\Work\\Projects\\gold-print\\gold-print.sublime-workspace"
+			],
+			[
+				"ob",
+				"E:\\panov\\projects\\obereg\\obereg.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

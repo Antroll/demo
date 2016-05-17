@@ -1473,8 +1473,8 @@ ul, ol, li, dl, dt, dd, p {
   font-weight: 100;
 }
 
-html {
-  min-height: 100%;
+html, body {
+  height: 100%;
 }
 
 body {
@@ -1506,17 +1506,92 @@ a:active, a:focus {
 }
 
 /* helpers */
+.my-modal_iframe {
+  width: 100%;
+}
+
+#cboxClose {
+  top: 0;
+  right: 7px;
+  width: 23px;
+  height: 24px;
+  background: black;
+  text-align: center;
+  line-height: 24px;
+  color: white;
+  border-radius: 0 0 5px 5px;
+  font-size: 0;
+  text-indent: 0;
+}
+#cboxClose:before {
+  content: '\f00d';
+  font-family: FontAwesome;
+  font-size: 16px;
+  opacity: 0.6;
+  -webkit-transition: opacity 0.2s;
+          transition: opacity 0.2s;
+}
+#cboxClose:hover:before {
+  opacity: 1;
+}
+
+.cboxFull {
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 32px;
+  width: 23px;
+  height: 24px;
+  background: black;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  border-radius: 0 0 5px 5px;
+}
+.cboxFull:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  margin: auto;
+  width: 60%;
+  height: 40%;
+  border: solid white;
+  border-width: 1px 1px 3px;
+  opacity: 0.6;
+  -webkit-transition: opacity 0.2s;
+          transition: opacity 0.2s;
+}
+.cboxFull:hover:before {
+  opacity: 1;
+}
+
 /* layout */
 /* .layout */
 /* index */
+.row {
+  font-size: 0;
+}
+
+[class^="col-"] {
+  font-size: 1rem;
+  float: none;
+  display: inline-block;
+  vertical-align: top;
+}
+
 .folder a {
   display: inline-block;
+  vertical-align: top;
   margin-bottom: 20px;
   text-decoration: none;
   color: inherit;
   opacity: 0.8;
   -webkit-transition: all 0.2s;
-  transition: all 0.2s;
+          transition: all 0.2s;
 }
 .folder a:active {
   position: relative;
@@ -1535,7 +1610,7 @@ a:active, a:focus {
   display: inline-block;
   color: #444;
   -webkit-transition: color 0.2s;
-  transition: color 0.2s;
+          transition: color 0.2s;
 }
 
 /* .index */
